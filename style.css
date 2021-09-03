@@ -1,0 +1,24 @@
+#toggle{
+    height: 40px;
+    width: 140px;
+    border-radius: 20px;
+    background-color: white;
+    border: 2px solid black;
+    margin: 50px auto;
+    cursor: pointer;
+}
+
+#circle{
+    height:38px;
+    width: 38px;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 1px;
+    margin-top: 1px;
+    transition-duration: 1s;
+}
+
+#heading{
+    margin: 100px auto;
+    text-align: center;
+}
